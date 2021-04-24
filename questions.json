@@ -1,0 +1,31 @@
+{
+  "version":"1.0",	
+  "data":[
+	 {
+	   "for":"all",
+	   "questions":[
+	    {
+	      "baslik":"soru 1",
+	      "secenekler":["evet","hayır"],
+	      "resim":"wp2285462-zodiac-sign-wallpapers.jpg"
+	    },
+	    {
+	      "baslik":"soru 2",
+	      "secenekler":["evet","hayır"],
+	      "resim":"wp2285462-zodiac-sign-wallpapers.jpg"
+	    },
+	    {
+	      "baslik":"soru 3",
+	      "secenekler":["evet","hayır"],
+	      "resim":"wp2285462-zodiac-sign-wallpapers.jpg"
+      
+	    },
+	    {
+	      "baslik":"soru 4",
+	      "secenekler":["evet","hayır"],
+	      "resim":"wp2285462-zodiac-sign-wallpapers.jpg"
+	    }
+	   ]
+	 }
+	]	
+}
