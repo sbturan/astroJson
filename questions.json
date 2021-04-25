@@ -7,22 +7,26 @@
 	    {
 	      "baslik":"soru 1",
 	      "secenekler":["evet","hayır"],
+	      "cevap":"1",    
 	      "resim":"2.jpg"
 	    },
 	    {
 	      "baslik":"soru 2",
 	      "secenekler":["evet","hayır"],
+	      "cevap":"2",
 	      "resim":"3.jpg"
 	    },
 	    {
 	      "baslik":"soru 3",
 	      "secenekler":["evet","hayır"],
+              "cevap":"1",
 	      "resim":"4.jpg"
       
 	    },
 	    {
 	      "baslik":"soru 4",
 	      "secenekler":["evet","hayır"],
+              "cevap":"2",
 	      "resim":"5.jpg"
 	    }
 	   ]
