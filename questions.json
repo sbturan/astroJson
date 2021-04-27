@@ -36,13 +36,13 @@
 	      "resim":"8.jpg"
 	    },
 	    {
-	      "baslik":"Deli gibi alışveriş yapma isteğin oldu mu ? umarım kendini frenlemişsindir.",
+	      "baslik":"Aile, akraba ilişkilerinde başarılı mıydın ? yeni insanlar hayatina girdi mi?",
 	      "secenekler":["evet","hayır"],
               "cevap":"0",
 	      "resim":"3.jpg"
 	    },
 	    {
-	      "baslik":"Deli gibi alışveriş yapma isteğin oldu mu ? umarım kendini frenlemişsindir.",
+	      "baslik":"Bu hafta dış görüntün için yeni birşeyler yaptın mı ?",
 	      "secenekler":["evet","hayır"],
               "cevap":"0",
 	      "resim":"2.jpg"
