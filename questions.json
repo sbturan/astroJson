@@ -2,32 +2,50 @@
   "version":"1.0",	
   "data":[
 	 {
-	   "for":"all",
+	   "for":"Boğa",
 	   "questions":[
 	    {
-	      "baslik":"soru 1",
-	      "secenekler":["evet","hayır"],
-	      "cevap":"1",    
+	      "baslik":"Bu hafta gerçekleşebilecek yeni karalar aldın mı ?",
+	      "secenekler":["Evet","Hayır"],
+	      "cevap":"0",    
 	      "resim":"2.jpg"
 	    },
 	    {
-	      "baslik":"soru 2",
+	      "baslik":"Genel olarak iyi olan insan ilişkilerinde sorunlar yaşadın mı ?",
 	      "secenekler":["evet","hayır"],
-	      "cevap":"2",
+	      "cevap":"0",
 	      "resim":"3.jpg"
 	    },
 	    {
-	      "baslik":"soru 3",
+	      "baslik":"Bu hafta maddi konular da başarılı mıydın?",
 	      "secenekler":["evet","hayır"],
-              "cevap":"1",
+              "cevap":"0",
 	      "resim":"4.jpg"
       
 	    },
 	    {
-	      "baslik":"soru 4",
+	      "baslik":"Kendini geliştirebildin mi bir şeyler katabildin mi? Yada yeni bir kurs?",
 	      "secenekler":["evet","hayır"],
-              "cevap":"2",
+              "cevap":"0",
 	      "resim":"5.jpg"
+	    },
+	    {
+	      "baslik":"Deli gibi alışveriş yapma isteğin oldu mu ? umarım kendini frenlemişsindir.",
+	      "secenekler":["evet","hayır"],
+              "cevap":"0",
+	      "resim":"8.jpg"
+	    },
+	    {
+	      "baslik":"Deli gibi alışveriş yapma isteğin oldu mu ? umarım kendini frenlemişsindir.",
+	      "secenekler":["evet","hayır"],
+              "cevap":"0",
+	      "resim":"3.jpg"
+	    },
+	    {
+	      "baslik":"Deli gibi alışveriş yapma isteğin oldu mu ? umarım kendini frenlemişsindir.",
+	      "secenekler":["evet","hayır"],
+              "cevap":"0",
+	      "resim":"2.jpg"
 	    }
 	   ]
 	 }
