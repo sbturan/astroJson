@@ -1,6 +1,42 @@
 {
   "version":"1.0",	
   "data":[
+ {
+   "for":"Terazi",
+   "questions":[
+    {
+      "baslik":"Çalışma hayatiniz yada düzeniniz hakkında bir düzelme yaşadınız mı? Yada böyle bir fırsatınız elinize geçti mi?",
+      "secenekler":["Evet","Hayır"],
+      "cevap":"0",    
+      "resim":"2.jpg"
+    },
+    {
+      "baslik":"Üzerini örtüğün korkuların gün yüzüne çıktı mi?",
+      "secenekler":["evet","hayır"],
+      "cevap":"0",
+      "resim":"3.jpg"
+    },
+    {
+      "baslik":"Sakin kalarak kazançlı çıktığın bir durum yaşadın mı?",
+      "secenekler":["evet","hayır"],
+       "cevap":"0",
+      "resim":"4.jpg"
+
+    },
+    {
+      "baslik":"Duygusal olarak çalkantılı bir dönem yaşadın mı?",
+      "secenekler":["evet","hayır"],
+       "cevap":"0",
+      "resim":"5.jpg"
+    },
+    {
+      "baslik":"Komşularınızla sınır ihlali özel alan konusunda tartışma yaşadınız mı?",
+      "secenekler":["evet","hayır"],
+       "cevap":"0",
+      "resim":"8.jpg"
+    }
+   ]
+ },
 	 {
 	   "for":"Boğa",
 	   "questions":[
