@@ -1,89 +1,871 @@
 {
-  "version":"1.0",	
-  "data":[
- {
-   "for":"Terazi",
-   "questions":[
-    {
-      "baslik":"Çalışma hayatiniz yada düzeniniz hakkında bir düzelme yaşadınız mı? Yada böyle bir fırsatınız elinize geçti mi?",
-      "secenekler":["Evet","Hayır"],
-      "cevap":"0",    
-      "resim":"2.jpg"
-    },
-    {
-      "baslik":"Üzerini örtüğün korkuların gün yüzüne çıktı mi?",
-      "secenekler":["evet","hayır"],
-      "cevap":"0",
-      "resim":"3.jpg"
-    },
-    {
-      "baslik":"Sakin kalarak kazançlı çıktığın bir durum yaşadın mı?",
-      "secenekler":["evet","hayır"],
-       "cevap":"0",
-      "resim":"4.jpg"
-
-    },
-    {
-      "baslik":"Duygusal olarak çalkantılı bir dönem yaşadın mı?",
-      "secenekler":["evet","hayır"],
-       "cevap":"0",
-      "resim":"5.jpg"
-    },
-    {
-      "baslik":"Komşularınızla sınır ihlali özel alan konusunda tartışma yaşadınız mı?",
-      "secenekler":["evet","hayır"],
-       "cevap":"0",
-      "resim":"8.jpg"
-    }
+   "version":"1.0",
+   "data":[
+      {
+         "for":"Oğlak",
+         "questions":[
+            {
+               "baslik":"Çalışma hayatiniz yada düzeniniz hakkında bir düzelme yaşadınız mı? Yada böyle bir fırsatınız elinize geçti mi?",
+               "secenekler":[
+                  "Evet",
+                  "Hayır"
+               ],
+               "cevap":"0",
+               "resim":"2.jpg"
+            },
+            {
+               "baslik":"Üzerini örtüğün korkuların gün yüzüne çıktı mi?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"3.jpg"
+            },
+            {
+               "baslik":"Sakin kalarak kazançlı çıktığın bir durum yaşadın mı?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"4.jpg"
+            },
+            {
+               "baslik":"Duygusal olarak çalkantılı bir dönem yaşadın mı?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"5.jpg"
+            },
+            {
+               "baslik":"Komşularınızla sınır ihlali özel alan konusunda tartışma yaşadınız mı?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"8.jpg"
+            }
+         ]
+      },
+      {
+         "for":"Kova",
+         "questions":[
+            {
+               "baslik":"Bu hafta gerçekleşebilecek yeni karalar aldın mı ?",
+               "secenekler":[
+                  "Evet",
+                  "Hayır"
+               ],
+               "cevap":"0",
+               "resim":"2.jpg"
+            },
+            {
+               "baslik":"Genel olarak iyi olan insan ilişkilerinde sorunlar yaşadın mı ?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"3.jpg"
+            },
+            {
+               "baslik":"Bu hafta maddi konular da başarılı mıydın?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"4.jpg"
+            },
+            {
+               "baslik":"Kendini geliştirebildin mi bir şeyler katabildin mi? Yada yeni bir kurs?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"5.jpg"
+            },
+            {
+               "baslik":"Deli gibi alışveriş yapma isteğin oldu mu ? umarım kendini frenlemişsindir.",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"8.jpg"
+            },
+            {
+               "baslik":"Aile, akraba ilişkilerinde başarılı mıydın ? yeni insanlar hayatina girdi mi?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"3.jpg"
+            },
+            {
+               "baslik":"Bu hafta dış görüntün için yeni birşeyler yaptın mı ?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"2.jpg"
+            }
+         ]
+      },
+      {
+         "for":"Kova",
+         "questions":[
+            {
+               "baslik":"Bu hafta gerçekleşebilecek yeni karalar aldın mı ?",
+               "secenekler":[
+                  "Evet",
+                  "Hayır"
+               ],
+               "cevap":"0",
+               "resim":"2.jpg"
+            },
+            {
+               "baslik":"Genel olarak iyi olan insan ilişkilerinde sorunlar yaşadın mı ?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"3.jpg"
+            },
+            {
+               "baslik":"Bu hafta maddi konular da başarılı mıydın?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"4.jpg"
+            },
+            {
+               "baslik":"Kendini geliştirebildin mi bir şeyler katabildin mi? Yada yeni bir kurs?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"5.jpg"
+            },
+            {
+               "baslik":"Deli gibi alışveriş yapma isteğin oldu mu ? umarım kendini frenlemişsindir.",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"8.jpg"
+            },
+            {
+               "baslik":"Aile, akraba ilişkilerinde başarılı mıydın ? yeni insanlar hayatina girdi mi?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"3.jpg"
+            },
+            {
+               "baslik":"Bu hafta dış görüntün için yeni birşeyler yaptın mı ?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"2.jpg"
+            }
+         ]
+      },
+      {
+         "for":"Balık",
+         "questions":[
+            {
+               "baslik":"Bu hafta gerçekleşebilecek yeni karalar aldın mı ?",
+               "secenekler":[
+                  "Evet",
+                  "Hayır"
+               ],
+               "cevap":"0",
+               "resim":"2.jpg"
+            },
+            {
+               "baslik":"Genel olarak iyi olan insan ilişkilerinde sorunlar yaşadın mı ?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"3.jpg"
+            },
+            {
+               "baslik":"Bu hafta maddi konular da başarılı mıydın?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"4.jpg"
+            },
+            {
+               "baslik":"Kendini geliştirebildin mi bir şeyler katabildin mi? Yada yeni bir kurs?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"5.jpg"
+            },
+            {
+               "baslik":"Deli gibi alışveriş yapma isteğin oldu mu ? umarım kendini frenlemişsindir.",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"8.jpg"
+            },
+            {
+               "baslik":"Aile, akraba ilişkilerinde başarılı mıydın ? yeni insanlar hayatina girdi mi?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"3.jpg"
+            },
+            {
+               "baslik":"Bu hafta dış görüntün için yeni birşeyler yaptın mı ?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"2.jpg"
+            }
+         ]
+      },
+      {
+         "for":"Koç",
+         "questions":[
+            {
+               "baslik":"Bu hafta gerçekleşebilecek yeni karalar aldın mı ?",
+               "secenekler":[
+                  "Evet",
+                  "Hayır"
+               ],
+               "cevap":"0",
+               "resim":"2.jpg"
+            },
+            {
+               "baslik":"Genel olarak iyi olan insan ilişkilerinde sorunlar yaşadın mı ?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"3.jpg"
+            },
+            {
+               "baslik":"Bu hafta maddi konular da başarılı mıydın?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"4.jpg"
+            },
+            {
+               "baslik":"Kendini geliştirebildin mi bir şeyler katabildin mi? Yada yeni bir kurs?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"5.jpg"
+            },
+            {
+               "baslik":"Deli gibi alışveriş yapma isteğin oldu mu ? umarım kendini frenlemişsindir.",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"8.jpg"
+            },
+            {
+               "baslik":"Aile, akraba ilişkilerinde başarılı mıydın ? yeni insanlar hayatina girdi mi?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"3.jpg"
+            },
+            {
+               "baslik":"Bu hafta dış görüntün için yeni birşeyler yaptın mı ?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"2.jpg"
+            }
+         ]
+      },
+      {
+         "for":"Boğa",
+         "questions":[
+            {
+               "baslik":"Bu hafta gerçekleşebilecek yeni karalar aldın mı ?",
+               "secenekler":[
+                  "Evet",
+                  "Hayır"
+               ],
+               "cevap":"0",
+               "resim":"2.jpg"
+            },
+            {
+               "baslik":"Genel olarak iyi olan insan ilişkilerinde sorunlar yaşadın mı ?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"3.jpg"
+            },
+            {
+               "baslik":"Bu hafta maddi konular da başarılı mıydın?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"4.jpg"
+            },
+            {
+               "baslik":"Kendini geliştirebildin mi bir şeyler katabildin mi? Yada yeni bir kurs?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"5.jpg"
+            },
+            {
+               "baslik":"Deli gibi alışveriş yapma isteğin oldu mu ? umarım kendini frenlemişsindir.",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"8.jpg"
+            },
+            {
+               "baslik":"Aile, akraba ilişkilerinde başarılı mıydın ? yeni insanlar hayatina girdi mi?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"3.jpg"
+            },
+            {
+               "baslik":"Bu hafta dış görüntün için yeni birşeyler yaptın mı ?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"2.jpg"
+            }
+         ]
+      },
+      {
+         "for":"İkizler",
+         "questions":[
+            {
+               "baslik":"Bu hafta gerçekleşebilecek yeni karalar aldın mı ?",
+               "secenekler":[
+                  "Evet",
+                  "Hayır"
+               ],
+               "cevap":"0",
+               "resim":"2.jpg"
+            },
+            {
+               "baslik":"Genel olarak iyi olan insan ilişkilerinde sorunlar yaşadın mı ?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"3.jpg"
+            },
+            {
+               "baslik":"Bu hafta maddi konular da başarılı mıydın?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"4.jpg"
+            },
+            {
+               "baslik":"Kendini geliştirebildin mi bir şeyler katabildin mi? Yada yeni bir kurs?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"5.jpg"
+            },
+            {
+               "baslik":"Deli gibi alışveriş yapma isteğin oldu mu ? umarım kendini frenlemişsindir.",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"8.jpg"
+            },
+            {
+               "baslik":"Aile, akraba ilişkilerinde başarılı mıydın ? yeni insanlar hayatina girdi mi?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"3.jpg"
+            },
+            {
+               "baslik":"Bu hafta dış görüntün için yeni birşeyler yaptın mı ?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"2.jpg"
+            }
+         ]
+      },
+      {
+         "for":"Yengeç",
+         "questions":[
+            {
+               "baslik":"Bu hafta gerçekleşebilecek yeni karalar aldın mı ?",
+               "secenekler":[
+                  "Evet",
+                  "Hayır"
+               ],
+               "cevap":"0",
+               "resim":"2.jpg"
+            },
+            {
+               "baslik":"Genel olarak iyi olan insan ilişkilerinde sorunlar yaşadın mı ?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"3.jpg"
+            },
+            {
+               "baslik":"Bu hafta maddi konular da başarılı mıydın?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"4.jpg"
+            },
+            {
+               "baslik":"Kendini geliştirebildin mi bir şeyler katabildin mi? Yada yeni bir kurs?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"5.jpg"
+            },
+            {
+               "baslik":"Deli gibi alışveriş yapma isteğin oldu mu ? umarım kendini frenlemişsindir.",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"8.jpg"
+            },
+            {
+               "baslik":"Aile, akraba ilişkilerinde başarılı mıydın ? yeni insanlar hayatina girdi mi?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"3.jpg"
+            },
+            {
+               "baslik":"Bu hafta dış görüntün için yeni birşeyler yaptın mı ?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"2.jpg"
+            }
+         ]
+      },
+      {
+         "for":"Aslan",
+         "questions":[
+            {
+               "baslik":"Bu hafta gerçekleşebilecek yeni karalar aldın mı ?",
+               "secenekler":[
+                  "Evet",
+                  "Hayır"
+               ],
+               "cevap":"0",
+               "resim":"2.jpg"
+            },
+            {
+               "baslik":"Genel olarak iyi olan insan ilişkilerinde sorunlar yaşadın mı ?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"3.jpg"
+            },
+            {
+               "baslik":"Bu hafta maddi konular da başarılı mıydın?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"4.jpg"
+            },
+            {
+               "baslik":"Kendini geliştirebildin mi bir şeyler katabildin mi? Yada yeni bir kurs?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"5.jpg"
+            },
+            {
+               "baslik":"Deli gibi alışveriş yapma isteğin oldu mu ? umarım kendini frenlemişsindir.",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"8.jpg"
+            },
+            {
+               "baslik":"Aile, akraba ilişkilerinde başarılı mıydın ? yeni insanlar hayatina girdi mi?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"3.jpg"
+            },
+            {
+               "baslik":"Bu hafta dış görüntün için yeni birşeyler yaptın mı ?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"2.jpg"
+            }
+         ]
+      },
+      {
+         "for":"Başak",
+         "questions":[
+            {
+               "baslik":"Bu hafta gerçekleşebilecek yeni karalar aldın mı ?",
+               "secenekler":[
+                  "Evet",
+                  "Hayır"
+               ],
+               "cevap":"0",
+               "resim":"2.jpg"
+            },
+            {
+               "baslik":"Genel olarak iyi olan insan ilişkilerinde sorunlar yaşadın mı ?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"3.jpg"
+            },
+            {
+               "baslik":"Bu hafta maddi konular da başarılı mıydın?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"4.jpg"
+            },
+            {
+               "baslik":"Kendini geliştirebildin mi bir şeyler katabildin mi? Yada yeni bir kurs?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"5.jpg"
+            },
+            {
+               "baslik":"Deli gibi alışveriş yapma isteğin oldu mu ? umarım kendini frenlemişsindir.",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"8.jpg"
+            },
+            {
+               "baslik":"Aile, akraba ilişkilerinde başarılı mıydın ? yeni insanlar hayatina girdi mi?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"3.jpg"
+            },
+            {
+               "baslik":"Bu hafta dış görüntün için yeni birşeyler yaptın mı ?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"2.jpg"
+            }
+         ]
+      },
+      {
+         "for":"Terazi",
+         "questions":[
+            {
+               "baslik":"Bu hafta gerçekleşebilecek yeni karalar aldın mı ?",
+               "secenekler":[
+                  "Evet",
+                  "Hayır"
+               ],
+               "cevap":"0",
+               "resim":"2.jpg"
+            },
+            {
+               "baslik":"Genel olarak iyi olan insan ilişkilerinde sorunlar yaşadın mı ?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"3.jpg"
+            },
+            {
+               "baslik":"Bu hafta maddi konular da başarılı mıydın?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"4.jpg"
+            },
+            {
+               "baslik":"Kendini geliştirebildin mi bir şeyler katabildin mi? Yada yeni bir kurs?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"5.jpg"
+            },
+            {
+               "baslik":"Deli gibi alışveriş yapma isteğin oldu mu ? umarım kendini frenlemişsindir.",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"8.jpg"
+            },
+            {
+               "baslik":"Aile, akraba ilişkilerinde başarılı mıydın ? yeni insanlar hayatina girdi mi?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"3.jpg"
+            },
+            {
+               "baslik":"Bu hafta dış görüntün için yeni birşeyler yaptın mı ?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"2.jpg"
+            }
+         ]
+      },
+      {
+         "for":"Akrep",
+         "questions":[
+            {
+               "baslik":"Bu hafta gerçekleşebilecek yeni karalar aldın mı ?",
+               "secenekler":[
+                  "Evet",
+                  "Hayır"
+               ],
+               "cevap":"0",
+               "resim":"2.jpg"
+            },
+            {
+               "baslik":"Genel olarak iyi olan insan ilişkilerinde sorunlar yaşadın mı ?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"3.jpg"
+            },
+            {
+               "baslik":"Bu hafta maddi konular da başarılı mıydın?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"4.jpg"
+            },
+            {
+               "baslik":"Kendini geliştirebildin mi bir şeyler katabildin mi? Yada yeni bir kurs?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"5.jpg"
+            },
+            {
+               "baslik":"Deli gibi alışveriş yapma isteğin oldu mu ? umarım kendini frenlemişsindir.",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"8.jpg"
+            },
+            {
+               "baslik":"Aile, akraba ilişkilerinde başarılı mıydın ? yeni insanlar hayatina girdi mi?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"3.jpg"
+            },
+            {
+               "baslik":"Bu hafta dış görüntün için yeni birşeyler yaptın mı ?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"2.jpg"
+            }
+         ]
+      },
+      {
+         "for":"Yay",
+         "questions":[
+            {
+               "baslik":"Bu hafta gerçekleşebilecek yeni karalar aldın mı ?",
+               "secenekler":[
+                  "Evet",
+                  "Hayır"
+               ],
+               "cevap":"0",
+               "resim":"2.jpg"
+            },
+            {
+               "baslik":"Genel olarak iyi olan insan ilişkilerinde sorunlar yaşadın mı ?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"3.jpg"
+            },
+            {
+               "baslik":"Bu hafta maddi konular da başarılı mıydın?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"4.jpg"
+            },
+            {
+               "baslik":"Kendini geliştirebildin mi bir şeyler katabildin mi? Yada yeni bir kurs?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"5.jpg"
+            },
+            {
+               "baslik":"Deli gibi alışveriş yapma isteğin oldu mu ? umarım kendini frenlemişsindir.",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"8.jpg"
+            },
+            {
+               "baslik":"Aile, akraba ilişkilerinde başarılı mıydın ? yeni insanlar hayatina girdi mi?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"3.jpg"
+            },
+            {
+               "baslik":"Bu hafta dış görüntün için yeni birşeyler yaptın mı ?",
+               "secenekler":[
+                  "evet",
+                  "hayır"
+               ],
+               "cevap":"0",
+               "resim":"2.jpg"
+            }
+         ]
+      }
    ]
- },
-	 {
-	   "for":"Boğa",
-	   "questions":[
-	    {
-	      "baslik":"Bu hafta gerçekleşebilecek yeni karalar aldın mı ?",
-	      "secenekler":["Evet","Hayır"],
-	      "cevap":"0",    
-	      "resim":"2.jpg"
-	    },
-	    {
-	      "baslik":"Genel olarak iyi olan insan ilişkilerinde sorunlar yaşadın mı ?",
-	      "secenekler":["evet","hayır"],
-	      "cevap":"0",
-	      "resim":"3.jpg"
-	    },
-	    {
-	      "baslik":"Bu hafta maddi konular da başarılı mıydın?",
-	      "secenekler":["evet","hayır"],
-              "cevap":"0",
-	      "resim":"4.jpg"
-      
-	    },
-	    {
-	      "baslik":"Kendini geliştirebildin mi bir şeyler katabildin mi? Yada yeni bir kurs?",
-	      "secenekler":["evet","hayır"],
-              "cevap":"0",
-	      "resim":"5.jpg"
-	    },
-	    {
-	      "baslik":"Deli gibi alışveriş yapma isteğin oldu mu ? umarım kendini frenlemişsindir.",
-	      "secenekler":["evet","hayır"],
-              "cevap":"0",
-	      "resim":"8.jpg"
-	    },
-	    {
-	      "baslik":"Aile, akraba ilişkilerinde başarılı mıydın ? yeni insanlar hayatina girdi mi?",
-	      "secenekler":["evet","hayır"],
-              "cevap":"0",
-	      "resim":"3.jpg"
-	    },
-	    {
-	      "baslik":"Bu hafta dış görüntün için yeni birşeyler yaptın mı ?",
-	      "secenekler":["evet","hayır"],
-              "cevap":"0",
-	      "resim":"2.jpg"
-	    }
-	   ]
-	 }
-	]	
 }
