@@ -5,7 +5,7 @@
          "for":"Oğlak",
          "questions":[
             {
-               "baslik":"Çalışma hayatiniz yada düzeniniz hakkında bir düzelme yaşadınız mı? Yada böyle bir fırsatınız elinize geçti mi?",
+               "baslik":"1.	Seyahat yada uzaklarla ilgili bir konu gündeminiz de oldu mu?",
                "secenekler":[
                   "Evet",
                   "Hayır"
@@ -14,7 +14,7 @@
                "resim":"2.jpg"
             },
             {
-               "baslik":"Üzerini örtüğün korkuların gün yüzüne çıktı mi?",
+               "baslik":"2.	Bu hafta gündeminizde ortak maddi konular, iş birlikleri ya da eşinizin iş ve maddi durumu olsa da kendi imkânlarınıza da odaklanmayı başarabildiniz mi ?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -23,7 +23,7 @@
                "resim":"3.jpg"
             },
             {
-               "baslik":"Sakin kalarak kazançlı çıktığın bir durum yaşadın mı?",
+               "baslik":"3.	Çevrenizde olup bitenler artarken iletişim konusunda bazı karışıklıklar yaşadınız mı?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -32,7 +32,7 @@
                "resim":"4.jpg"
             },
             {
-               "baslik":"Duygusal olarak çalkantılı bir dönem yaşadın mı?",
+               "baslik":"4.	Çevrenizde sizi destekleyen kişiler moralinizi yerine getirmek için çaba sarfetti mi?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -40,15 +40,6 @@
                "cevap":"0",
                "resim":"5.jpg"
             },
-            {
-               "baslik":"Komşularınızla sınır ihlali özel alan konusunda tartışma yaşadınız mı?",
-               "secenekler":[
-                  "evet",
-                  "hayır"
-               ],
-               "cevap":"0",
-               "resim":"8.jpg"
-            }
          ]
       },
       {
