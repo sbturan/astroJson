@@ -46,7 +46,7 @@
          "for":"Kova",
          "questions":[
             {
-               "baslik":"Bu hafta gerçekleşebilecek yeni karalar aldın mı ?",
+               "baslik":"1.	Bu hafta sizin için ilişkiler konusunda yoğun bir hafta oldu mu ?",
                "secenekler":[
                   "Evet",
                   "Hayır"
@@ -55,7 +55,7 @@
                "resim":"2.jpg"
             },
             {
-               "baslik""İlişkiler konusun da ne kadar yoğun bir hafta olsada kendinize yönelmeyi tercih ettiniz mi?",
+               "baslik":"2.	İlişkiler konusun da ne kadar yoğun bir hafta olsada kendinize yönelmeyi tercih ettiniz mi?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -123,23 +123,13 @@
                "cevap":"0",
                "resim":"5.jpg"
             },
-           
-            {
-               "baslik":"Aile, akraba ilişkilerinde başarılı mıydın ? yeni insanlar hayatina girdi mi?",
-               "secenekler":[
-                  "evet",
-                  "hayır"
-               ],
-               "cevap":"0",
-               "resim":"3.jpg"
-            },
          ]
       },
       {
          "for":"Koç",
          "questions":[
             {
-               "baslik":"",
+               "baslik":"1.	Arkadaş ve sosyal çevrenize daha fazla vakit ayrıdınız mı ?",
                "secenekler":[
                   "Evet",
                   "Hayır"
@@ -148,7 +138,7 @@
                "resim":"2.jpg"
             },
             {
-               "baslik":"",
+               "baslik":"2.	Hafta ortasında gündelik iş ve uğraşlar detaylı çalışma gerektirdi mi ?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -157,7 +147,7 @@
                "resim":"3.jpg"
             },
             {
-               "baslik":"",
+               "baslik":"3.	Başkalarına karşı özverili ve fedakâr yönleriniz abartıya kaçtı mı?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -166,7 +156,7 @@
                "resim":"4.jpg"
             },
             {
-               "baslik":"",
+               "baslik":"4.	Alışık olmadığınız duygusallıklar yaşadınız mı?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -174,25 +164,6 @@
                "cevap":"0",
                "resim":"5.jpg"
             },
-           
-            {
-               "baslik":"Aile, akraba ilişkilerinde başarılı mıydın ? yeni insanlar hayatina girdi mi?",
-               "secenekler":[
-                  "evet",
-                  "hayır"
-               ],
-               "cevap":"0",
-               "resim":"3.jpg"
-            },
-            {
-               "baslik":"Bu hafta dış görüntün için yeni birşeyler yaptın mı ?",
-               "secenekler":[
-                  "evet",
-                  "hayır"
-               ],
-               "cevap":"0",
-               "resim":"2.jpg"
-            }
          ]
       },
       {
