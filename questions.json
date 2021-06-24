@@ -5,7 +5,7 @@
          "for":"Oğlak",
          "questions":[
             {
-               "baslik":"1.	Seyahat yada uzaklarla ilgili bir konu gündeminiz de oldu mu?",
+               "baslik":"1. Seyahat yada uzaklarla ilgili bir konu gündeminiz'de oldu mu?",
                "secenekler":[
                   "Evet",
                   "Hayır"
@@ -14,7 +14,7 @@
                "resim":"2.jpg"
             },
             {
-               "baslik":"2.	Bu hafta gündeminizde ortak maddi konular, iş birlikleri ya da eşinizin iş ve maddi durumu olsa da kendi imkânlarınıza da odaklanmayı başarabildiniz mi ?",
+               "baslik":"2. Bu hafta gündeminizde ortak maddi konular, iş birlikleri ya da eşinizin iş ve maddi durumu olsa da kendi imkânlarınıza da odaklanmayı başarabildiniz mi ?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -23,7 +23,7 @@
                "resim":"3.jpg"
             },
             {
-               "baslik":"3.	Çevrenizde olup bitenler artarken iletişim konusunda bazı karışıklıklar yaşadınız mı?",
+               "baslik":"3. Çevrenizde olup bitenler artarken iletişim konusunda bazı karışıklıklar yaşadınız mı?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -32,7 +32,7 @@
                "resim":"4.jpg"
             },
             {
-               "baslik":"4.	Çevrenizde sizi destekleyen kişiler moralinizi yerine getirmek için çaba sarfetti mi?",
+               "baslik":"4. Çevrenizde sizi destekleyen kişiler moralinizi yerine getirmek için çaba sarfetti mi?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -46,7 +46,7 @@
          "for":"Kova",
          "questions":[
             {
-               "baslik":"1.	Bu hafta sizin için ilişkiler konusunda yoğun bir hafta oldu mu ?",
+               "baslik":"1. Bu hafta sizin için ilişkiler konusunda yoğun bir hafta oldu mu ?",
                "secenekler":[
                   "Evet",
                   "Hayır"
@@ -55,7 +55,7 @@
                "resim":"2.jpg"
             },
             {
-               "baslik":"2.	İlişkiler konusun da ne kadar yoğun bir hafta olsada kendinize yönelmeyi tercih ettiniz mi?",
+               "baslik":"2. İlişkiler konusun da ne kadar yoğun bir hafta olsada kendinize yönelmeyi tercih ettiniz mi?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -64,7 +64,7 @@
                "resim":"3.jpg"
             },
             {
-               "baslik":"3.	Aşktan ve sevdiklerinizden yana keyifli bir hafta mıydı ?",
+               "baslik":"3. Aşktan ve sevdiklerinizden yana keyifli bir hafta mıydı ?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -73,7 +73,7 @@
                "resim":"4.jpg"
             },
             {
-               "baslik":"4.	Maddi konularda bazı karışıklıklar yaşandı mı?",
+               "baslik":"4. Maddi konularda bazı karışıklıklar yaşandı mı?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -88,7 +88,7 @@
          "for":"Balık",
          "questions":[
             {
-               "baslik":"1.	Haftaya başlarken ilgilenmeniz gereken onca iş sizi beklerken akışa bırakmayı denediniz mi ?",
+               "baslik":"1. Haftaya başlarken ilgilenmeniz gereken onca iş sizi beklerken akışa bırakmayı denediniz mi ?",
                "secenekler":[
                   "Evet",
                   "Hayır"
@@ -97,7 +97,7 @@
                "resim":"2.jpg"
             },
             {
-               "baslik":"2.	İlişkiler konusunda problemler yaşadınız mı?",
+               "baslik":"2. İlişkiler konusunda problemler yaşadınız mı?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -106,7 +106,7 @@
                "resim":"3.jpg"
             },
             {
-               "baslik":"3.	Şans konusunda iyi olmadığınız bir hafta geçirdiniz mi ?",
+               "baslik":"3. Şans konusunda iyi olmadığınız bir hafta geçirdiniz mi ?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -115,7 +115,7 @@
                "resim":"4.jpg"
             },
             {
-               "baslik":"4.	Sosyal medya, internet gibi iletişim alanlarınd problem yaşadınız mı?",
+               "baslik":"4. Sosyal medya, internet gibi iletişim alanlarınd problem yaşadınız mı?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -129,7 +129,7 @@
          "for":"Koç",
          "questions":[
             {
-               "baslik":"1.	Arkadaş ve sosyal çevrenize daha fazla vakit ayrıdınız mı ?",
+               "baslik":"1. Arkadaş ve sosyal çevrenize daha fazla vakit ayrıdınız mı ?",
                "secenekler":[
                   "Evet",
                   "Hayır"
@@ -138,7 +138,7 @@
                "resim":"2.jpg"
             },
             {
-               "baslik":"2.	Hafta ortasında gündelik iş ve uğraşlar detaylı çalışma gerektirdi mi ?",
+               "baslik":"2. Hafta ortasında gündelik iş ve uğraşlar detaylı çalışma gerektirdi mi ?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -147,7 +147,7 @@
                "resim":"3.jpg"
             },
             {
-               "baslik":"3.	Başkalarına karşı özverili ve fedakâr yönleriniz abartıya kaçtı mı?",
+               "baslik":"3. Başkalarına karşı özverili ve fedakâr yönleriniz abartıya kaçtı mı?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -156,7 +156,7 @@
                "resim":"4.jpg"
             },
             {
-               "baslik":"4.	Alışık olmadığınız duygusallıklar yaşadınız mı?",
+               "baslik":"4. Alışık olmadığınız duygusallıklar yaşadınız mı?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -170,7 +170,7 @@
          "for":"Boğa",
          "questions":[
             {
-               "baslik":"1.	Keyifli bir hafta geçirdiniz mi ?",
+               "baslik":"1. Keyifli bir hafta geçirdiniz mi ?",
                "secenekler":[
                   "Evet",
                   "Hayır"
@@ -179,7 +179,7 @@
                "resim":"2.jpg"
             },
             {
-               "baslik":"2.	Evden ya da kapalı ortamlardan çıkma fırsatı buldunuz mu ?",
+               "baslik":"2. Evden ya da kapalı ortamlardan çıkma fırsatı buldunuz mu ?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -188,7 +188,7 @@
                "resim":"3.jpg"
             },
             {
-               "baslik":"3.	Sosyalleşmeye biraz abartılı vakit ayırdınız mı?",
+               "baslik":"3. Sosyalleşmeye biraz abartılı vakit ayırdınız mı?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -197,7 +197,7 @@
                "resim":"4.jpg"
             },
             {
-               "baslik":"4.	Gündelik yaşamınızı rahat kılan koşullar oluşturmak için uğraşınız oldu mu?",
+               "baslik":"4. Gündelik yaşamınızı rahat kılan koşullar oluşturmak için uğraşınız oldu mu?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -211,7 +211,7 @@
          "for":"İkizler",
          "questions":[
             {
-               "baslik":"1.	Geçen  haftada yeni  hedef ve planlar gündeme geldi mi?",
+               "baslik":"1. Geçen  haftada yeni  hedef ve planlar gündeme geldi mi?",
                "secenekler":[
                   "Evet",
                   "Hayır"
@@ -220,7 +220,7 @@
                "resim":"2.jpg"
             },
             {
-               "baslik":"2.	Seyahat ettiniz mi yada seyahat kararı aldınız mı?",
+               "baslik":"2. Seyahat ettiniz mi yada seyahat kararı aldınız mı?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -229,7 +229,7 @@
                "resim":"3.jpg"
             },
             {
-               "baslik":"3.	Kendinize koyduğunuz planlar, program ve organizasyon işlerini abartamış olabilir misiniz ?",
+               "baslik":"3. Kendinize koyduğunuz planlar, program ve organizasyon işlerini abartamış olabilir misiniz ?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -238,7 +238,7 @@
                "resim":"4.jpg"
             },
             {
-               "baslik":"4.	Gündeminizde iletişim, haberleşme, yakın çevreyle ilgili konular olsa  da bunlardan uzaklaşma kararı aldınız mı ?",
+               "baslik":"4. Gündeminizde iletişim, haberleşme, yakın çevreyle ilgili konular olsa  da bunlardan uzaklaşma kararı aldınız mı ?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -252,7 +252,7 @@
          "for":"Yengeç",
          "questions":[
             {
-               "baslik":"1.	Haftaya başlarken gündeminizde maddi konular ağır bastı mı ?",
+               "baslik":"1. Haftaya başlarken gündeminizde maddi konular ağır bastı mı ?",
                "secenekler":[
                   "Evet",
                   "Hayır"
@@ -261,7 +261,7 @@
                "resim":"2.jpg"
             },
             {
-               "baslik":"2.	Ev ve aile konuları öne geçti mi?",
+               "baslik":"2. Ev ve aile konuları öne geçti mi?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -270,7 +270,7 @@
                "resim":"3.jpg"
             },
             {
-               "baslik":"3.	İletişim konusunda sıkıntı yaşadın mı?",
+               "baslik":"3. İletişim konusunda sıkıntı yaşadın mı?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -279,7 +279,7 @@
                "resim":"4.jpg"
             },
             {
-               "baslik":"4.	Her alanda nispeten daha huzurlu ve güvenli bir hafta geçirirdin mi?",
+               "baslik":"4. Her alanda nispeten daha huzurlu ve güvenli bir hafta geçirirdin mi?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -293,7 +293,7 @@
          "for":"Aslan",
          "questions":[
             {
-               "baslik":"1.	Maddi konular ve hesap işlerinde sıkıntı yaşadınız mı ?",
+               "baslik":"1. Maddi konular ve hesap işlerinde sıkıntı yaşadınız mı ?",
                "secenekler":[
                   "Evet",
                   "Hayır"
@@ -302,7 +302,7 @@
                "resim":"2.jpg"
             },
             {
-               "baslik":"2.	Yakın çevrenize komşu ve kardeşlerinize odaklandınız mı?",
+               "baslik":"2. Yakın çevrenize komşu ve kardeşlerinize odaklandınız mı?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -311,7 +311,7 @@
                "resim":"3.jpg"
             },
             {
-               "baslik":"3.	Ortak maddi konularda yoğunluk, eşinizin, ortağınızın işlerinde artışla birlikte karışıklık yaşandı mı ?",
+               "baslik":"3. Ortak maddi konularda yoğunluk, eşinizin, ortağınızın işlerinde artışla birlikte karışıklık yaşandı mı ?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -320,7 +320,7 @@
                "resim":"4.jpg"
             },
             {
-               "baslik":"4.	Yaşanan her seye rağmen yinede iyi bir hafta geçirdiniz mi?",
+               "baslik":"4. Yaşanan her seye rağmen yinede iyi bir hafta geçirdiniz mi?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -334,7 +334,7 @@
          "for":"Başak",
          "questions":[
             {
-               "baslik":"1.	Haftaya başlarken akışında bırakmanız gereken konular olabilir, bu günleri biraz daha sakin ve dinlenerek geçirebilirsiniz.",
+               "baslik":"1. Haftaya başlarken akışında bırakmanız gereken konular olabilir, bu günleri biraz daha sakin ve dinlenerek geçirebilirsiniz.",
                "secenekler":[
                   "Evet",
                   "Hayır"
@@ -343,7 +343,7 @@
                "resim":"2.jpg"
             },
             {
-               "baslik":"2.	Maddi konular öne geldi mi ?",
+               "baslik":"2. Maddi konular öne geldi mi ?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -352,7 +352,7 @@
                "resim":"3.jpg"
             },
             {
-               "baslik":"3.	İlişkilerle ilgili konularda belirsizlik ve tuhaf durumlar yaşandı mı ?",
+               "baslik":"3. İlişkilerle ilgili konularda belirsizlik ve tuhaf durumlar yaşandı mı ?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -361,7 +361,7 @@
                "resim":"4.jpg"
             },
             {
-               "baslik":"4.	Önünüze yeni fırsatlar geldi mi ? Umarım kaçırmamışsınızdır?",
+               "baslik":"4. Önünüze yeni fırsatlar geldi mi ? Umarım kaçırmamışsınızdır?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -375,7 +375,7 @@
          "for":"Terazi",
          "questions":[
             {
-               "baslik":"1.	Haftaya başlarken sosyal konularda, arkadaşlık ilişkilerinizde duyarlı ve hassas oldunuz mu ?",
+               "baslik":"1. Haftaya başlarken sosyal konularda, arkadaşlık ilişkilerinizde duyarlı ve hassas oldunuz mu ?",
                "secenekler":[
                   "Evet",
                   "Hayır"
@@ -384,7 +384,7 @@
                "resim":"2.jpg"
             },
             {
-               "baslik":"2.	Hafta ortasında akışa bırakmanız gereken konular oldu mu ?",
+               "baslik":"2. Hafta ortasında akışa bırakmanız gereken konular oldu mu ?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -393,7 +393,7 @@
                "resim":"3.jpg"
             },
             {
-               "baslik":"3.	Unutkanlık, ihmaller yaşadınızı mı ?",
+               "baslik":"3. Unutkanlık, ihmaller yaşadınızı mı ?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -402,7 +402,7 @@
                "resim":"4.jpg"
             },
             {
-               "baslik":"4.	Gündelik işleri artırırken bazı karışıklıklar yaşandı mı ?",
+               "baslik":"4. Gündelik işleri artırırken bazı karışıklıklar yaşandı mı ?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -416,7 +416,7 @@
          "for":"Akrep",
          "questions":[
             {
-               "baslik":"1.	Ev ve aile konuları haftanızı meşgul etti mi ?",
+               "baslik":"1. Ev ve aile konuları haftanızı meşgul etti mi ?",
                "secenekler":[
                   "Evet",
                   "Hayır"
@@ -425,7 +425,7 @@
                "resim":"2.jpg"
             },
             {
-               "baslik":"2.	Hafta ortasında sosyalleşmeye vakit ayırdınız mı ?",
+               "baslik":"2. Hafta ortasında sosyalleşmeye vakit ayırdınız mı ?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -434,7 +434,7 @@
                "resim":"3.jpg"
             },
             {
-               "baslik":"3.	Sevdiklerinize, aşkınıza karşı özverili ve fedakâr yönlerinizi abarttınız oldu mu ?",
+               "baslik":"3. Sevdiklerinize, aşkınıza karşı özverili ve fedakâr yönlerinizi abarttınız oldu mu ?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -443,7 +443,7 @@
                "resim":"4.jpg"
             },
             {
-               "baslik":"4.	Tuhaf duygusallık ve hassasiyetler yaşadınız mı ?",
+               "baslik":"4. Tuhaf duygusallık ve hassasiyetler yaşadınız mı ?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -457,7 +457,7 @@
          "for":"Yay",
          "questions":[
             {
-               "baslik":"1.	Yakın çevrenize yönlenelip , komşu ve kardeşlerle ilgilenebildiniz mi ?",
+               "baslik":"1. Yakın çevrenize yönlenelip , komşu ve kardeşlerle ilgilenebildiniz mi ?",
                "secenekler":[
                   "Evet",
                   "Hayır"
@@ -466,7 +466,7 @@
                "resim":"2.jpg"
             },
             {
-               "baslik":"2.	İlgilenmeniz gereken organizasyon işleri olabilir, hedef ve planlar konusunda aksaklık yaşadınız mı ?",
+               "baslik":"2. İlgilenmeniz gereken organizasyon işleri olabilir, hedef ve planlar konusunda aksaklık yaşadınız mı ?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -475,7 +475,7 @@
                "resim":"3.jpg"
             },
             {
-               "baslik":"3.	Sosyal yönden keyifli bir gündeminiz oldu mu ?",
+               "baslik":"3. Sosyal yönden keyifli bir gündeminiz oldu mu ?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -484,7 +484,7 @@
                "resim":"4.jpg"
             },
             {
-               "baslik":"4.	 Arkadaşlarınızla bir araya gelebildiniz  mi?",
+               "baslik":"4.  Arkadaşlarınızla bir araya gelebildiniz  mi?",
                "secenekler":[
                   "evet",
                   "hayır"
