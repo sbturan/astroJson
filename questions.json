@@ -46,7 +46,7 @@
          "for":"Kova",
          "questions":[
             {
-               "baslik":"1. Bu hafta sizin için ilişkiler konusunda yoğun bir hafta oldu mu ?",
+               "baslik":"1.	Kendi önceliklerinize odaklandınız mı ?",
                "secenekler":[
                   "Evet",
                   "Hayır"
@@ -55,7 +55,7 @@
                "resim":"2.jpg"
             },
             {
-               "baslik":"2. İlişkiler konusun da ne kadar yoğun bir hafta olsada kendinize yönelmeyi tercih ettiniz mi?",
+               "baslik":"2.	Sıradışı görüş ve fikirlerinizle kendinizi daha çok ortaya koyabildiniz mi ?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -64,7 +64,7 @@
                "resim":"3.jpg"
             },
             {
-               "baslik":"3. Aşktan ve sevdiklerinizden yana keyifli bir hafta mıydı ?",
+               "baslik":"3.	Sabrınızın zorlandığı anlar yaşadınız mı ?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -73,7 +73,7 @@
                "resim":"4.jpg"
             },
             {
-               "baslik":"4. Maddi konularda bazı karışıklıklar yaşandı mı?",
+               "baslik":"4.	Kısa bir yolculuk yapma kararı aldınız mı ?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -88,7 +88,7 @@
          "for":"Balık",
          "questions":[
             {
-               "baslik":"1. Haftaya başlarken ilgilenmeniz gereken onca iş sizi beklerken akışa bırakmayı denediniz mi ?",
+               "baslik":"1.	Kendinizi cesaretli hissettiğiniz bir hafta oldu mu?",
                "secenekler":[
                   "Evet",
                   "Hayır"
@@ -97,7 +97,7 @@
                "resim":"2.jpg"
             },
             {
-               "baslik":"2. İlişkiler konusunda problemler yaşadınız mı?",
+               "baslik":"2.	Hayatı biraz daha akışında götürmek durumunda kaldınız mı?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -106,7 +106,7 @@
                "resim":"3.jpg"
             },
             {
-               "baslik":"3. Şans konusunda iyi olmadığınız bir hafta geçirdiniz mi ?",
+               "baslik":"3.	 Kendinizi göstermeye ve ilişkilerinizde söz sahibi olmaya başladınız mı?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -115,7 +115,7 @@
                "resim":"4.jpg"
             },
             {
-               "baslik":"4. Sosyal medya, internet gibi iletişim alanlarınd problem yaşadınız mı?",
+               "baslik":"4.	 Maddi  ve iş konularında baskı hissettiniz mi?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -129,7 +129,7 @@
          "for":"Koç",
          "questions":[
             {
-               "baslik":"1. Arkadaş ve sosyal çevrenize daha fazla vakit ayrıdınız mı ?",
+               "baslik":"1.	Bir sürprizle karşılaştınız mı ?",
                "secenekler":[
                   "Evet",
                   "Hayır"
@@ -138,7 +138,7 @@
                "resim":"2.jpg"
             },
             {
-               "baslik":"2. Hafta ortasında gündelik iş ve uğraşlar detaylı çalışma gerektirdi mi ?",
+               "baslik":"2.	Sosyal konular, arkadaşlıklar ve sosyal ilişkiler gündeminizde oldu mu?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -147,7 +147,7 @@
                "resim":"3.jpg"
             },
             {
-               "baslik":"3. Başkalarına karşı özverili ve fedakâr yönleriniz abartıya kaçtı mı?",
+               "baslik":"3.	Maddi anlamda dalgınlık, unutkanlık, sakarlıklarla karşılaştınız mı?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -156,7 +156,7 @@
                "resim":"4.jpg"
             },
             {
-               "baslik":"4. Alışık olmadığınız duygusallıklar yaşadınız mı?",
+               "baslik":"4.	Konfor ve güven duygularınız ön planda olmuş ve rahat etmek istemiş olabilirsiniz ?",
                "secenekler":[
                   "evet",
                   "hayır"
