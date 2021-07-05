@@ -252,7 +252,7 @@
          "for":"Yengeç",
          "questions":[
             {
-               "baslik":"1. Haftaya başlarken gündeminizde maddi konular ağır bastı mı ?",
+               "baslik":"1.	Başarılarınızla takdir edildiniz mi?",
                "secenekler":[
                   "Evet",
                   "Hayır"
@@ -261,7 +261,7 @@
                "resim":"2.jpg"
             },
             {
-               "baslik":"2. Ev ve aile konuları öne geçti mi?",
+               "baslik":"2.	Güçlü ve mücadeleci yönlerinizi keşfettiniz mi?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -270,7 +270,7 @@
                "resim":"3.jpg"
             },
             {
-               "baslik":"3. İletişim konusunda sıkıntı yaşadın mı?",
+               "baslik":"3.	Uzaklarla, dışarıyla ilgili konular gündeminizi kapladı mı?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -279,7 +279,7 @@
                "resim":"4.jpg"
             },
             {
-               "baslik":"4. Her alanda nispeten daha huzurlu ve güvenli bir hafta geçirirdin mi?",
+               "baslik":"4.	Etkili kişilerle bir araya gelmiş, vergi, miras, iş, para ve alım satım konuları gündeminizde oldu mu?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -293,7 +293,7 @@
          "for":"Aslan",
          "questions":[
             {
-               "baslik":"1. Maddi konular ve hesap işlerinde sıkıntı yaşadınız mı ?",
+               "baslik":"1.	İlişkiler bu hafta fazla zamanınızı aldı mı?",
                "secenekler":[
                   "Evet",
                   "Hayır"
@@ -302,7 +302,7 @@
                "resim":"2.jpg"
             },
             {
-               "baslik":"2. Yakın çevrenize komşu ve kardeşlerinize odaklandınız mı?",
+               "baslik":"2.	Mücadele gücünüzü gösterebileceğiniz imkanlar doğdu mu?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -311,7 +311,7 @@
                "resim":"3.jpg"
             },
             {
-               "baslik":"3. Ortak maddi konularda yoğunluk, eşinizin, ortağınızın işlerinde artışla birlikte karışıklık yaşandı mı ?",
+               "baslik":"3.	Uzak yollar ve seyahatler gündeminize geldi mi?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -320,7 +320,7 @@
                "resim":"4.jpg"
             },
             {
-               "baslik":"4. Yaşanan her seye rağmen yinede iyi bir hafta geçirdiniz mi?",
+               "baslik":"4.	Görev ve sorumluluklarınıza daha fazla sahip çıkabilirdiniz mi?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -334,7 +334,7 @@
          "for":"Başak",
          "questions":[
             {
-               "baslik":"1. Haftaya başlarken akışında bırakmanız gereken konular olabilir, bu günleri biraz daha sakin ve dinlenerek geçirebilirsiniz.",
+               "baslik":"1.	İlişkilerden yana şanslı bir hafta geçirdiniz mi?",
                "secenekler":[
                   "Evet",
                   "Hayır"
@@ -343,7 +343,7 @@
                "resim":"2.jpg"
             },
             {
-               "baslik":"2. Maddi konular öne geldi mi ?",
+               "baslik":"2.	Sağlıkla ilgili konularla haşır neşir oldunuz mu?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -352,7 +352,7 @@
                "resim":"3.jpg"
             },
             {
-               "baslik":"3. İlişkilerle ilgili konularda belirsizlik ve tuhaf durumlar yaşandı mı ?",
+               "baslik":"3.	Günlük rutininizle ve düzeninizle daha fazla ilgilendiniz mi?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -361,7 +361,7 @@
                "resim":"4.jpg"
             },
             {
-               "baslik":"4. Önünüze yeni fırsatlar geldi mi ? Umarım kaçırmamışsınızdır?",
+               "baslik":"4.	Ortak iş, para ve alım satım konuları gündeminize geldi mi?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -375,7 +375,7 @@
          "for":"Terazi",
          "questions":[
             {
-               "baslik":"1. Haftaya başlarken sosyal konularda, arkadaşlık ilişkilerinizde duyarlı ve hassas oldunuz mu ?",
+               "baslik":"1.	Sevdiklerinizle ilgili sorumluluklar aldınız mı?",
                "secenekler":[
                   "Evet",
                   "Hayır"
@@ -384,7 +384,7 @@
                "resim":"2.jpg"
             },
             {
-               "baslik":"2. Hafta ortasında akışa bırakmanız gereken konular oldu mu ?",
+               "baslik":"2.	Sevdiğiniz, ilgi duyduğunuz konularla ilgilenmeye başladınız mı ?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -393,7 +393,7 @@
                "resim":"3.jpg"
             },
             {
-               "baslik":"3. Unutkanlık, ihmaller yaşadınızı mı ?",
+               "baslik":"3.	Sürprizlerle karşılaştınız mı?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -402,7 +402,7 @@
                "resim":"4.jpg"
             },
             {
-               "baslik":"4. Gündelik işlerin artarken bazı karışıklıklar yaşandı mı ?",
+               "baslik":"4.	Gündeminizde ortak maddi konular, para ve iş konuları oldu mu ?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -416,7 +416,7 @@
          "for":"Akrep",
          "questions":[
             {
-               "baslik":"1. Ev ve aile konuları haftanızı meşgul etti mi ?",
+               "baslik":"1.	Sürprizlerle karşılaştınız mı?",
                "secenekler":[
                   "Evet",
                   "Hayır"
@@ -425,7 +425,7 @@
                "resim":"2.jpg"
             },
             {
-               "baslik":"2. Hafta ortasında sosyalleşmeye vakit ayırdınız mı ?",
+               "baslik":"2.	Sevdiklerinizle ilgili konular gündeminize geldi mi?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -434,7 +434,7 @@
                "resim":"3.jpg"
             },
             {
-               "baslik":"3. Sevdiklerinize, aşkınıza karşı özverili ve fedakâr yönlerinizi abarttınız oldu mu ?",
+               "baslik":"3.	Gündelik işlere ve detaylara daha çok zaman ayırdınız mı?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -443,7 +443,7 @@
                "resim":"4.jpg"
             },
             {
-               "baslik":"4. Tuhaf duygusallık ve hassasiyetler yaşadınız mı ?",
+               "baslik":"4.	Üretken ve çalışkan yönlerinizi ortaya koydunuz mu?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -457,7 +457,7 @@
          "for":"Yay",
          "questions":[
             {
-               "baslik":"1. Yakın çevrenize yönlenelip , komşu ve kardeşlerle ilgilenebildiniz mi ?",
+               "baslik":"1.	Bazı konularda ailenizden destek gördünüz mü ?",
                "secenekler":[
                   "Evet",
                   "Hayır"
@@ -466,7 +466,7 @@
                "resim":"2.jpg"
             },
             {
-               "baslik":"2. İlgilenmeniz gereken organizasyon işleri olabilir, hedef ve planlar konusunda aksaklık yaşadınız mı ?",
+               "baslik":"2.	Kısa yolculuklar, görüşme ve ziyaretler gündeminiz de oldu mu?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -475,7 +475,7 @@
                "resim":"3.jpg"
             },
             {
-               "baslik":"3. Sosyal yönden keyifli bir gündeminiz oldu mu ?",
+               "baslik":"3.	Sıradışı ve yenilikçi fikirlerinizi daha rahat ifade etmiş olabilirsiniz?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -484,7 +484,7 @@
                "resim":"4.jpg"
             },
             {
-               "baslik":"4.  Arkadaşlarınızla bir araya gelebildiniz  mi?",
+               "baslik":"4.	Gündelik işlerinize, detaylara ve iş ve çalışma ortamınıza odaklanmanızı arttırdınız ?",
                "secenekler":[
                   "evet",
                   "hayır"
