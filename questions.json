@@ -170,7 +170,7 @@
          "for":"Boğa",
          "questions":[
             {
-               "baslik":"1. Keyifli bir hafta geçirdiniz mi ?",
+               "baslik":"1.	Dış dünyaya odaklanmış olabilirsiniz ?",
                "secenekler":[
                   "Evet",
                   "Hayır"
@@ -179,7 +179,7 @@
                "resim":"2.jpg"
             },
             {
-               "baslik":"2. Evden ya da kapalı ortamlardan çıkma fırsatı buldunuz mu ?",
+               "baslik":"2.	İş hayatınız ve kariyerinizle ya da görev ve sorumluluklarınızla ilgili konular gündeminize geldi mi?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -188,7 +188,7 @@
                "resim":"3.jpg"
             },
             {
-               "baslik":"3. Sosyalleşmeye biraz abartılı vakit ayırdınız mı?",
+               "baslik":"3.	İşle ilgili sorumlulukların baskısını hissettiniz mi?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -197,7 +197,7 @@
                "resim":"4.jpg"
             },
             {
-               "baslik":"4. Gündelik yaşamınızı rahat kılan koşullar oluşturmak için uğraşınız oldu mu?",
+               "baslik":"4.	Akışta kalmayı ve etrafınızdaki baş döndürücü hareketliliği izlemeyi tercih ettiniz mi?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -211,7 +211,7 @@
          "for":"İkizler",
          "questions":[
             {
-               "baslik":"1. Geçen  haftada yeni  hedef ve planlar gündeme geldi mi?",
+               "baslik":"1.	Keyifli bir hafta geçirdiniz mi?",
                "secenekler":[
                   "Evet",
                   "Hayır"
@@ -220,7 +220,7 @@
                "resim":"2.jpg"
             },
             {
-               "baslik":"2. Seyahat ettiniz mi yada seyahat kararı aldınız mı?",
+               "baslik":"2.	Özgür ve bağımsız hareket etmeyi tercih ettiniz mi?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -229,7 +229,7 @@
                "resim":"3.jpg"
             },
             {
-               "baslik":"3. Kendinize koyduğunuz planlar, program ve organizasyon işlerini abartamış olabilir misiniz ?",
+               "baslik":"3.	Görev ve sorumluluklar gündeminizİ hep meşgul etti mi?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -238,7 +238,7 @@
                "resim":"4.jpg"
             },
             {
-               "baslik":"4. Gündeminizde iletişim, haberleşme, yakın çevreyle ilgili konular olsa  da bunlardan uzaklaşma kararı aldınız mı ?",
+               "baslik":"4.	Oldukça sosyal  ve canlı zamanlar geçirdiniz mi?",
                "secenekler":[
                   "evet",
                   "hayır"
