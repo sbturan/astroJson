@@ -5,7 +5,7 @@
          "for":"Oğlak",
          "questions":[
             {
-               "baslik":"1. Seyahat yada uzaklarla ilgili bir konu gündeminiz'de oldu mu?",
+               "baslik":"1.	Maddi konulara daha çok odaklandınız mı?",
                "secenekler":[
                   "Evet",
                   "Hayır"
@@ -14,7 +14,7 @@
                "resim":"2.jpg"
             },
             {
-               "baslik":"2. Bu hafta gündeminizde ortak maddi konular, iş birlikleri ya da eşinizin iş ve maddi durumu olsa da kendi imkânlarınıza da odaklanmayı başarabildiniz mi ?",
+               "baslik":"2.Yakın çevrenizle etkileşiminiz, iletişiminiz güçlendi mi?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -23,7 +23,7 @@
                "resim":"3.jpg"
             },
             {
-               "baslik":"3. Çevrenizde olup bitenler artarken iletişim konusunda bazı karışıklıklar yaşadınız mı?",
+               "baslik":"3.Söz ve konuşmalarınızla büyüleyici ve daha etkileyici oldunuz mu?",
                "secenekler":[
                   "evet",
                   "hayır"
@@ -32,7 +32,7 @@
                "resim":"4.jpg"
             },
             {
-               "baslik":"4. Çevrenizde sizi destekleyen kişiler moralinizi yerine getirmek için çaba sarfetti mi?",
+               "baslik":"4.	Kalbinizin sesini daha çok duyup ona göre hareket ettiniz mi?",
                "secenekler":[
                   "evet",
                   "hayır"
